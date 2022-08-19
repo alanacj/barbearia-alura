@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Floricultura Bela Moça</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <header>
+            <h1 class="titulo-principal">Floricultura Bela Moça</h1>
+        </header>
+        <img id="banner" src="banner.jpg">
+        <div class="principal">
+            <h2 class="titulo-centralizado">Sobre a Floricultura Bela Moça</h2>
+
+            <p>Encontrada no centro da cidade de Minas Gerais <strong>Floricultura Bela Moça</strong> traz para o mercado o que há de melhor para a decoração de seu lar. Fundada em 2016, a Floricultura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+            <p id="missao"><em>Nossa missão é: <strong>"Deixar todos os ambientes mais harmoniosos e bem decorados para a satisfação dos nossos clientes"</strong>.</em></p>
+
+            <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda, que fazem seu trabalho com amor e carinho. Todos os lugares que imaginar irá ter a melhor decoração que quizer e escolher; o atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+        </div>
+
+       <div class="beneficios">
+            <h3 class="titulo-centralizado">Benefícios</h3>
+
+            <ul>
+                <li class="itens">Ótimo Atendimentos;</li>
+                <li class="itens">Espaço Aconchegante e Harmonioso;</li>
+                <li class="itens">Agilidade e copetência sempre;</li>
+                <li class="itens">Profissionais Qualificados e Esperientes.</li>
+            </ul>
+
+            <img src="beneficios.jpg" class="imagembeneficios">
+        </div>
+    </body>
+</html>
