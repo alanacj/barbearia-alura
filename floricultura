@@ -10,7 +10,7 @@
         <header>
             <h1 class="titulo-principal">Floricultura Bela Moça</h1>
         </header>
-        <img id="banner" src="banner.jpg">
+        <img id="banner" src="flor.jpg">
         <div class="principal">
             <h2 class="titulo-centralizado">Sobre a Floricultura Bela Moça</h2>
 
@@ -18,11 +18,11 @@
 
             <p id="missao"><em>Nossa missão é: <strong>"Deixar todos os ambientes mais harmoniosos e bem decorados para a satisfação dos nossos clientes"</strong>.</em></p>
 
-            <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda, que fazem seu trabalho com amor e carinho. Todos os lugares que imaginar irá ter a melhor decoração que quizer e escolher; o atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+            <p>Oferecemos profissionais experientes que fazem seu trabalho com amor e carinho. Todos os lugares que imaginar irá ter a melhor decoração que quizer e escolher; o atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
         </div>
 
        <div class="beneficios">
-            <h3 class="titulo-centralizado">Benefícios</h3>
+            <h3 class="titulo">Benefícios</h3>
 
             <ul>
                 <li class="itens">Ótimo Atendimentos;</li>
@@ -31,7 +31,6 @@
                 <li class="itens">Profissionais Qualificados e Esperientes.</li>
             </ul>
 
-            <img src="beneficios.jpg" class="imagembeneficios">
         </div>
     </body>
 </html>
