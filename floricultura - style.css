@@ -3,19 +3,22 @@ body {
 }
 
 #banner {
-	width: 100%;
+	width: 100%; 
 }
 
 .principal {
-	background: #ee6aee;
+	text-align: center;
+	background: #fa83dc;
 	padding: 30px;
 }
 
 .titulo-principal {
+	text-align: center;
 	padding-left: 20px; ali;
 }
 
 .titulo-centralizado {
+	text-align: center;
 	text-align: center;
 }
 
@@ -23,7 +26,7 @@ p {
 	text-align: center;
 }
 
-#missao {
+#missao { 
 	font-size: 20px
 }
 
@@ -36,8 +39,10 @@ em strong {
 }
 
 .benefícios {
+    text-align: center;
 	background: #f8f6f6;
 	padding: 20px;
+    image-rendering: auto;
 }
 
 ul {
