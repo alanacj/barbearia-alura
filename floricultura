@@ -22,8 +22,8 @@
         </div>
 
        <div class="beneficios">
-            <h3 class="titulo">Benefícios</h3>
-
+            <h3 class="titulo-centralizado">Benefícios</h3>
+            <img id="beneficios" src="beneficios.jpeg">
             <ul>
                 <li class="itens">Ótimo Atendimentos;</li>
                 <li class="itens">Espaço Aconchegante e Harmonioso;</li>
@@ -33,4 +33,3 @@
 
         </div>
     </body>
-</html>
